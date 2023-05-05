@@ -1,0 +1,21 @@
+#div1{
+    border: 1px solid black;
+    text-align: center;
+    background-color: coral;
+    position: absolute;
+    width: 1400px;
+    
+}
+
+#div2{
+    border: 1px solid black;
+   justify-content: center;
+    display: none;
+    padding-left: 600px;
+    background-color: aqua;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
